@@ -3,19 +3,19 @@
 > DevOps를 꿈꾸는 개발자입니다.
 ---
 
-## **📌 Contact**
+## **📌 Contact**
 - 이메일: [begywjd@naver.com](mailto:hffuf7799@gmail.com)
 - 블로그:  [https://khjk.tistory.com](https://khjk.tistory.com/)
 - 깃헙    : [https://github.com/khjk](https://github.com/khjk)
 
 
 
-## **📌 Career History **
+## **🕗 Career History **
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
 
 
 
-## **📌 Qualification **
+## **✔ Qualification **
 <img src="https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png" width="100" height="100">
 Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/public_url
 
@@ -25,7 +25,7 @@ Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/
 - AWS Certified Solutions Architect-Associate (2022) 
 
 
-## **📌 Skills**
+## **🎯 Skills**
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=JAVA&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">  
@@ -34,13 +34,13 @@ Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/
 </div>
 
  
- ## **📌 Education**
+ ## **⛳ Education**
 - B.A of Computer Science(Wonju), Yonsei University 
 - 한국정보기술연구원 이공계 전문기술 연수과정 (2020.04.06~2020.07.30)
 - SW 집중교육 프로그램 (2019.07.01 ~ 2019.07.26)
  
  
-## **📌 Feature**
+## ** Feature**
 
 ![HyoJung's github stats](https://github-readme-stats.vercel.app/api?username=khjk&show_icons=true&theme=tokyonight)
 
