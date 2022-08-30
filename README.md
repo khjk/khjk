@@ -9,11 +9,12 @@
 - 깃헙    : [https://github.com/khjk](https://github.com/khjk)
 
 
+<br>
 
 ## ** Career History **
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
 
-
+<br>
 
 ## ** Qualification **
 <img src="https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png" width="100" height="100">
