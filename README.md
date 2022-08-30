@@ -34,10 +34,11 @@ Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/
 
 
 ## **📌 Education**
-B.A of Computer Science(Wonju), Yonsei University (2020)
-
-
-## **📌 Feature**
+- B.A of Computer Science(Wonju), Yonsei University 
+- 한국정보기술연구원 이공계 전문기술 연수과정 (2020.04.06~2020.07.30)
+- SW 집중교육 프로그램 (2019.07.01 ~ 2019.07.26)
+ 
+## **📌 Feature**
 
 ![HyoJung's github stats](https://github-readme-stats.vercel.app/api?username=khjk&show_icons=true&theme=tokyonight)
 
