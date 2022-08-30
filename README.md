@@ -8,6 +8,7 @@
 ## **📌 Certification**
 <img src="https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png" width="100" height="100">
 Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/public_url
+
 - 정보처리기사 - 2018.12.21 취득
 - SQLD - 2018.12.21 취득
 - 리눅스마스터2급 - 2020.06.30 취득
