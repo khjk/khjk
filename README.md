@@ -10,7 +10,7 @@
 
 
 
-## **🕗 Career History **
+## ** Career History **
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
 
 
