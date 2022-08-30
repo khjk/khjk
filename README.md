@@ -1,7 +1,7 @@
 ## 강효정
 ---
 > DevOps를 꿈꾸는 개발자입니다.
-> 
+---
 
 ## **📌 Certification**
 <img src="https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png" width="100" height="100">
