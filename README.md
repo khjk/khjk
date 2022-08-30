@@ -25,6 +25,11 @@ Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/
 </div>
 
 
+## **📌 Contact**
+- 이메일: [begywjd@naver.com](mailto:hffuf7799@gmail.com)
+- 블로그:  [https://khjk.tistory.com](https://khjk.tistory.com/)
+- 깃헙    : [https://github.com/khjk](https://github.com/khjk)
+
 
 ## **📌 Education**
 B.A of Computer Science(Wonju), Yonsei University (2020)
