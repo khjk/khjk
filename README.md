@@ -14,7 +14,7 @@ Verify URL : https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/
 
 
 ## **📌 Career History **
-- 2020.08.11 ~ 2022.08.31 Developer, Architecture team
+- 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
 
 ## **📌 Skills**
 
