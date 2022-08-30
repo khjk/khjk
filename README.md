@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/16586926/187479092-4d3fab44-066d-496d-88f5-942d520afe2d.png)
+
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png)
 
 
 https://www.credly.com/badges/1c6c04aa-2f08-4d57-9348-405110515cac/public_url
