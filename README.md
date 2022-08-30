@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">`
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 
 <img src="https://user-images.githubusercontent.com/16586926/187479204-b479585d-ce11-4e4c-829c-9d32d9a64110.png" width="100" height="100">
