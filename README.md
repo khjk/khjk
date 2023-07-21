@@ -13,7 +13,8 @@
 
 ## ** Career History **
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
-
+- 2020.11.20 ~            Web Developer, Global team
+  
 <br>
 
 ## ** Qualification **
