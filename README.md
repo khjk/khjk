@@ -12,6 +12,7 @@
 <br>
 
 ## ** Career History **
+- 2022.11.21 ~            Web Developer, Global Development team
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
 - 2020.11.20 ~            Web Developer, Global team
   
