@@ -1,6 +1,6 @@
 ## 강효정
 ---
-> DevOps를 꿈꾸는 개발자입니다.
+> 서버 백엔드 개발자입니다.
 ---
 
 ## **📌 Contact**
@@ -12,9 +12,9 @@
 <br>
 
 ## ** Career History **
-- 2022.11.21 ~            Web Developer, Global Development team
+- 2024.06.17 ~            Server Developer, Voice Recognition Lab
+- 2022.11.21 ~ 2024.06.01 Web Developer, Global Development team
 - 2020.08.11 ~ 2022.08.31 Web Developer, Architecture team
-- 2020.11.20 ~            Web Developer, Global team
   
 <br>
 
