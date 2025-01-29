@@ -6,7 +6,6 @@
 ## **📌 Contact**
 - 이메일: [begywjd@naver.com](mailto:hffuf7799@gmail.com)
 - 블로그:  [https://khjk.tistory.com](https://khjk.tistory.com/)
-- 깃헙    : [https://github.com/khjk](https://github.com/khjk)
 
 
 <br>
